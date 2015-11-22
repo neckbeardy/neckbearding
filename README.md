@@ -20,13 +20,21 @@ Level 3
 <img src="http://2.bp.blogspot.com/-_1jKSX5J0gE/UxcoV6peirI/AAAAAAAAD_I/mOz0HH6gAs8/s1600/beard+1800s+henrik+ibsen.jpg" width="200">
 
 Level -1
+
 <img src="https://img1.etsystatic.com/000/0/6135382/il_570xN.254181875.jpg" width="200">
 
+Level -2
+
+<img src="https://c1.staticflickr.com/5/4108/4951220940_434b933961_b.jpg" width="200">
+
 Level -3
+
 <img src="http://www.internetmeth.com/wp-content/uploads/2014/10/antique-photo-of-young-boy_medium.jpg" width="200">
 
 Winner
+
 <img src="http://i.imgur.com/qoRGm.jpg" width="200">
 
 Punishment
+
 <img src="http://cdn.shopify.com/s/files/1/0521/1557/files/straight-razor-shave_grande.jpg?16667213184746352145" width="200">
