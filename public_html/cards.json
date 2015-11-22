@@ -1,0 +1,58 @@
+[
+    {
+        "type": "grow",
+        "value": 1
+        "description": [
+            "I heard Elm was cool!",
+            "After a refactor, your code is easier to reason about"
+        ]
+    },
+    {
+        "type": "grow",
+        "value": 2,
+        "description": [
+            "Went to a Haskell meetup",
+            "Wrote a blog post about referential transparency"
+        ]
+    },
+    {
+        "type": "grow",
+        "value": 3,
+        "description": [
+            "Wrote a compiler for Haskell to Javascript... in Clojure",
+            "Wrote a linter for Elm... only to discover that there's no such thing as 'bad' Elm",
+            "Argued with Linus Torvalds about how Linux is 'just too imperative'"
+        ]
+    },
+    {
+        "type": "shave",
+        "value": 1,
+        "description": [
+            "Wrote a for loop"
+        ]
+    },
+    {
+        "type": "shave",
+        "value": 2,
+        "description": [
+            "Used angular"
+        ]
+    },
+    {
+        "type": "shave",
+        "value": 3,
+        "description": [
+            "Read about DOM manipulation on W3Schools to write a Wordpress plugin",
+            "Bought a annual cloud subscription to use Visual Studio Pro for $539/yr"
+        ]
+    },
+    {
+        "type": "product_management",
+        "description": [
+            "Sprint planning",
+            "Product review",
+            "Demo day",
+            "Annual performance review"
+        ]
+    }
+]
