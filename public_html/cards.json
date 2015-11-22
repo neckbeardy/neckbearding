@@ -35,7 +35,9 @@
         "type": "shave",
         "value": 2,
         "description": [
-            "Used angular"
+            "Used angular",
+            "Put comma in between function arguments in Elm",
+            "Attempted to put things of different types into an Elm List"
         ]
     },
     {
