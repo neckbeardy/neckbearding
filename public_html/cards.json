@@ -44,6 +44,7 @@
         "type": "shave",
         "value": 3,
         "description": [
+            "Wrote a function that takes more than one parameter",
             "Read about DOM manipulation on W3Schools to write a Wordpress plugin",
             "Bought a annual cloud subscription to use Visual Studio Pro for $539/yr"
         ]
